@@ -1,3 +1,5 @@
+package ICSatKCC;
+
 /**
 * A driver program for Student objects.
 * @author Lisa Miller

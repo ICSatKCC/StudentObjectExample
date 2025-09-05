@@ -1,3 +1,5 @@
+package ICSatKCC;
+
 /**
  * A class Student.
  * @author  Lisa Miller
